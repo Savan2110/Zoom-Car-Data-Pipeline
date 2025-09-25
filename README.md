@@ -8,9 +8,9 @@ This project demonstrates an **end-to-end ETL pipeline** including ingestion, tr
 ## 📸 Project Snapshots
 
 - **Pipeline Architecture**
-- <img width="1677" height="937" alt="pipeline" src="https://github.com/user-attachments/assets/d1dfac71-5b06-4632-8ae5-45be2d614c37" />)  
+- <img width="1677" height="937" alt="pipeline" src="https://github.com/user-attachments/assets/d1dfac71-5b06-4632-8ae5-45be2d614c37" />
 - **Databricks Workflow**
-- <img width="1677" height="930" alt="job_run" src="https://github.com/user-attachments/assets/1b166b9c-0fdc-4965-958f-8b16aa73ef8e" />)  
+- <img width="1677" height="930" alt="job_run" src="https://github.com/user-attachments/assets/1b166b9c-0fdc-4965-958f-8b16aa73ef8e" />
 - **Delta Table Output**
 - <img width="1680" height="858" alt="target_bookings_delta" src="https://github.com/user-attachments/assets/7202eb11-b4b8-4c36-8feb-722bbf420f53" />
   <img width="1677" height="897" alt="target_customers_delta" src="https://github.com/user-attachments/assets/2d9dca97-e725-4f2e-91dc-8ce0609c2525" />
