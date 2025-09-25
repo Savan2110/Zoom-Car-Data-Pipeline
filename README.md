@@ -6,7 +6,6 @@ This project demonstrates an **end-to-end ETL pipeline** including ingestion, tr
 ---
 
 ## 📸 Project Snapshots
-*(Upload your screenshots in the `images/` folder and replace below placeholders)*  
 
 - ![Pipeline Architecture](<img width="1677" height="937" alt="pipeline" src="https://github.com/user-attachments/assets/d1dfac71-5b06-4632-8ae5-45be2d614c37" />)  
 - ![Databricks Workflow](<img width="1677" height="930" alt="job_run" src="https://github.com/user-attachments/assets/1b166b9c-0fdc-4965-958f-8b16aa73ef8e" />)  
